@@ -1,0 +1,12 @@
+/home/sarah/TaskManager/Shared/bin/Debug/net7.0/TaskManager.Shared.deps.json
+/home/sarah/TaskManager/Shared/bin/Debug/net7.0/TaskManager.Shared.dll
+/home/sarah/TaskManager/Shared/bin/Debug/net7.0/TaskManager.Shared.pdb
+/home/sarah/TaskManager/Shared/obj/Debug/net7.0/TaskManager.Shared.csproj.AssemblyReference.cache
+/home/sarah/TaskManager/Shared/obj/Debug/net7.0/TaskManager.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/sarah/TaskManager/Shared/obj/Debug/net7.0/TaskManager.Shared.AssemblyInfoInputs.cache
+/home/sarah/TaskManager/Shared/obj/Debug/net7.0/TaskManager.Shared.AssemblyInfo.cs
+/home/sarah/TaskManager/Shared/obj/Debug/net7.0/TaskManager.Shared.csproj.CoreCompileInputs.cache
+/home/sarah/TaskManager/Shared/obj/Debug/net7.0/TaskManager.Shared.dll
+/home/sarah/TaskManager/Shared/obj/Debug/net7.0/refint/TaskManager.Shared.dll
+/home/sarah/TaskManager/Shared/obj/Debug/net7.0/TaskManager.Shared.pdb
+/home/sarah/TaskManager/Shared/obj/Debug/net7.0/ref/TaskManager.Shared.dll
